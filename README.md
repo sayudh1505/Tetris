@@ -1,16 +1,35 @@
-# tetris_1
+# Tetris in Flutter
 
-A new Flutter project.
+A modern implementation of the classic Tetris game built using Flutter.  
+This project demonstrates Flutter’s capabilities for building interactive 2D games with smooth animations, responsive controls, and a clean UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- Classic Tetris gameplay
+- Clean and responsive UI
+- Real-time piece movement and rotation
+- Line clearing and score system
+- Cross-platform support (Android, iOS, Web, Desktop)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+- Install [Flutter](https://flutter.dev/docs/get-started/install) (latest stable version recommended).
+- Ensure you have an emulator/simulator or a physical device connected.
+
+### Steps
+```bash
+# Clone this repository
+git clone https://github.com/your-username/flutter-tetris.git
+
+# Navigate into the project folder
+cd flutter-tetris
+
+# Get dependencies
+flutter pub get
+
+# Run the app
+flutter run
